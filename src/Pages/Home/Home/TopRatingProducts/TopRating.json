@@ -1,0 +1,193 @@
+[
+    {
+        "id": 1,
+        "title": "Hijab",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 2,
+        "title": "Burkha",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 3,
+        "title": "Kids",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 4,
+        "title": "Mens",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 5,
+        "title": "Salah",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 6,
+        "title": "Toy",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 7,
+        "title": "Toy",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 8,
+        "title": "Toy",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 9,
+        "title": "Toy",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      },
+    {
+        "id": 10,
+        "title": "Toy",
+        "description": "Style and speed. Stand out on ...",
+        "price": 1499,
+        "discountPercentage": 10.23,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+        "images": [
+          "https://i.dummyjson.com/data/products/8/1.jpg",
+          "https://i.dummyjson.com/data/products/8/2.jpg",
+          "https://i.dummyjson.com/data/products/8/3.jpg",
+          "https://i.dummyjson.com/data/products/8/4.jpg",
+          "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+      }
+]
+  
